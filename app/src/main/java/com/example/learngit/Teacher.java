@@ -1,4 +1,4 @@
 package com.example.learngit;
 
-public class Test{
+public class Teacher {
 }
